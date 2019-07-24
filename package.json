@@ -1,6 +1,6 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "Haneet Singh Resume",
+    "name": "Haneet Singh Resume",
     "version": "5.0.4",
     "scripts": {
         "start": "gulp watch"
@@ -31,8 +31,9 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.7.2",
         "bootstrap": "4.3.1",
-        "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1"
+        "jquery": "3.4.0",
+        "jquery.easing": "^1.4.1",
+        "npm": "^6.10.2"
     },
     "devDependencies": {
         "browser-sync": "2.26.3",
